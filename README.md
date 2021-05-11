@@ -3,7 +3,7 @@ Learn Python, Tensorflow, Deep Learning, Regression, Classification, Neural Netw
 
 ### Certifications
 
-- [Data Science & Machine Learning](https://nlb.udemy.com/certificate/UC-ed77b5a5-d026-45a5-9efc-1680c2bb2626/)
+- [Data Science & Machine Learning](https://udemy.com/certificate/UC-ed77b5a5-d026-45a5-9efc-1680c2bb2626/)
 
 ### Awknowledgements
 
